@@ -136,3 +136,15 @@ section {
     color: #535353;
     text-decoration: none;
 }
+
+.ficha {
+    background: rgb(65, 255, 2);
+    padding: 15px;
+    color: #000000;
+}
+
+.ficha2 {
+    background: rgb(110, 121, 182);
+    padding: 15px;
+    color: #000000;
+}
